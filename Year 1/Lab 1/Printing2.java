@@ -6,6 +6,6 @@ public class Printing2 {
         System.out.println("Hello");
         
         // The system will print 'world!' on the second line
-          System.out.println("world!");
+        System.out.println("world!");
     }
 }
