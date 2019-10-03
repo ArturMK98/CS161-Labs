@@ -15,3 +15,6 @@ Below is a list of all the labs and exercises in this repository along with a sh
 - [UsingMod](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%201/UsingMod.java): A Java program that uses an int num that stores a 3 digit number, breaks up the number using the mod operator into its component digits and prints them out.
 
 # Lab 2
+- [Question1](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%202/Question1.java): A java program that demonstrates simple Addition, Multiplication & Division.
+
+- [Question](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%202/Selection.java): A Java program that checks to see if the age of a person is greater than or equal to 18. If it is,
