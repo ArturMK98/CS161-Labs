@@ -17,4 +17,19 @@ Below is a list of all the labs and exercises in this repository along with a sh
 # Lab 2
 - [Question1](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%202/Question1.java): A java program that demonstrates simple Addition, Multiplication & Division.
 
-- [Question](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%202/Selection.java): A Java program that checks to see if the age of a person is greater than or equal to 18. If it is,
+- [Selection](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%202/Selection.java): A Java program that checks to see if the age of a person is greater than or equal to 18. If it is, a message saying that the person can vote is printed out; otherwise, a message saying they can't vote is printed out.
+
+- [Selection2](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%202/Selection2.java):  A Java program that uses if selection statements to print out the cost of a toll based on the type of vehicle.
+
+- [Switch](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%202/Switch.java): A Java program that uses a switch statement to print out the month of the year given a value between 1 and 12.
+
+- [Ternary](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%202/Ternary.java): A Java program that prints out the fee to use a golf course depending on whether the user is a member or not using the ternary operator.
+
+- [Modulus](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%202/Modulus.java): a Java program that declares 5 integer variables and determines how many of the numbers are odd or and how many are even.
+
+# Lab 3
+
+
+
+
+
