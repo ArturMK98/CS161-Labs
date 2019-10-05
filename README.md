@@ -97,7 +97,7 @@ Below is a list of all the labs and exercises in this repository along with a sh
 - [SumOfDiagonals](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%209/SumOfDiagonals.java): A Java program that creates a 2D array using user input and prints to the screen the sum of the diagonals.
 
 # Lab 10
-
+- [Casting1](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%2010/Casting1.java): A Java program that casts user inputted Strings to doubles, stores all the values in a double array (of size 5) and rint to the screen the largest rate of hourly pay and the lowest rate of hourly pay
 
 
 
