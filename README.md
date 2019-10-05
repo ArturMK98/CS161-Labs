@@ -8,7 +8,7 @@ Below is a list of all the labs and exercises in this repository along with a sh
 
 - [Printing2](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%201/Printing2.java): A Java program which prints the message "Hello" on one line and "world!" on the next.
 
-- [Printing3](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%201/Printing3.java): A Java program that prints out System.out.println("3 + 4"), System.out.println(3 + 4) and System.out.println(3 + "4") to demonstrate the diifference between each print statement.
+- [Printing3](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%201/Printing3.java): A Java program that prints out System.out.println("3 + 4"), System.out.println(3 + 4) and System.out.println(3 + "4") to demonstrate the difference between each print statement.
 
 - [PrintingVariables](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%201/PrintingVariables.java): A Java program that Declares an integer, called num1, and sets its value to be 5. Declares a double, called num2, and sets its value to be 2.3. Declares a character variable, called letter, and sets its value to be 's' and Prints each initialised variable on a new line.
 
