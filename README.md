@@ -86,7 +86,17 @@ Below is a list of all the labs and exercises in this repository along with a sh
 - [Clumps](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%208/Clumps.java): A java program which will print to the screen the largest "clump" that appears in an array that was created by user input.
 
 # Lab 9
+- [NestedWhileLoops](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%209/NestedWhileLoops.java): A Java program that uses a nested while-loop to print to the screen a pattern.
 
+- [NestedForLoops](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%209/NestedForLoops.java):  A Java program that will print out the times tables for all numbers between 1 and 12.
+
+- [SumOfOdd](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%209/SumOfOdd.java): A Java program that creates a 2D array using user input, print to the screen the total number of odd numbers in the array and print the sum of all of the odd numbers in the array.
+
+- [LargestRow](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%209/LargestRow.java): A Java program that creates a 2D array using user input, determines which row has the largest sum and prints to the screen a string starting with "R" and then the number of the row with no spaces.
+
+- [SumOfDiagonals](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%209/SumOfDiagonals.java): A Java program that creates a 2D array using user input and prints to the screen the sum of the diagonals.
+
+# Lab 10
 
 
 
