@@ -97,7 +97,8 @@ Below is a list of all the labs and exercises in this repository along with a sh
 - [SumOfDiagonals](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%209/SumOfDiagonals.java): A Java program that creates a 2D array using user input and prints to the screen the sum of the diagonals.
 
 # Lab 10
-- [Casting1](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%2010/Casting1.java): A Java program that casts user inputted Strings to doubles, stores all the values in a double array (of size 5) and rint to the screen the largest rate of hourly pay and the lowest rate of hourly pay
+- [Casting1](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%2010/Casting1.java): A Java program that casts user inputted Strings to doubles representing the hourly rate of pay for employees, stores all the values in a double array (of size 5) and print to the screen the largest rate of hourly pay and the lowest rate of hourly pay.
 
+- [Casting2](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%2010/Casting2.java): A Java program that prints to the screen the character equivalence of an inputted decimal value and stops printing when the decimal value for 'ESC' (27) is inputted.
 
-
+- [tryCatch1](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%2010/tryCatch1.java): A Java program that demonstrates the use of try, catch by printing out that an error has occured insted of crashing.
