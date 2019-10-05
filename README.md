@@ -28,7 +28,6 @@ Below is a list of all the labs and exercises in this repository along with a sh
 - [Modulus](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%202/Modulus.java): A Java program that declares 5 integer variables and determines how many of the numbers are odd or and how many are even.
 
 # Lab 3
-
 - [Factorial](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%203/Factorial.java): A Java program that uses a while-loop to find the factorial of a number.
 
 - [While](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%203/While.java): A Java program that uses a while-loop to check how many times an integer num1 can be divided by 2 before the number becomes less than 2.
@@ -48,7 +47,17 @@ Below is a list of all the labs and exercises in this repository along with a sh
 
 # Lab 5
 
+- [Revision](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%205/Revision.java): A Java program that determines the sum of the units, tens, hundreds and thousands in every four-digit number.
 
+- [Strings1](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%205/Strings1.java): A Java program that prints to the screen a concatenated String.
+
+- [Strings2](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%205/Strings2.java): A Java program that prints the lengths of the string, position of the first occurence of teh character 'h', the String in all lower case letters and in all upper case letters.
+
+- [Backwards](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%205/Backwards.java): A Java program that takes a String that references a lowercase String and prints the String in reverse word by word.
+
+- [Palindrome](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%205/Palindrome.java): a Java program that will determine if a String is a palindrome.
+
+# Lab 6
 
 
 
