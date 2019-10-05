@@ -62,7 +62,17 @@ Below is a list of all the labs and exercises in this repository along with a sh
 - [input2](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%206/input2.java): A program that takes two integer inputs from the user and tells if the first number is greater than, equal to or less than the second number.
 
 # Lab 7
+- [input1](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%207/input1.java): A Java program that creates a String variable from user input and replaces every instance of a lowercase 'a' with '#' if 'a' appears 3 times or less. Otherwise replace 'a' with a '@' and print this new String to the screen.
 
+- [input2](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%207/input2.java): A Java program that takes a String, ensures that it only contains lower case letters and then capitalise the first letter of each word in the String.
+
+- [binToDec](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%207/binToDec.java): A Java program that converts a binary number to a decimal number and prints the decimal number to the screen.
+
+- [decToBin](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%207/decToBin.java): A Java program that converts a decimal number to a binary number and prints the binary number to the screen.
+
+- [hexToDec](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%207/hexToDec.java): A Java program that converts a hexadecimal number to a decimal number and prints the decimal number to the screen.
+
+# Lab 8
 
 
 
