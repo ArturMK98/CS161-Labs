@@ -73,6 +73,21 @@ Below is a list of all the labs and exercises in this repository along with a sh
 - [hexToDec](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%207/hexToDec.java): A Java program that converts a hexadecimal number to a decimal number and prints the decimal number to the screen.
 
 # Lab 8
+- [arraySwap](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%208/arraySwap.java): A Java program that swaps the first and last elements in an array of size 5 and print it to the screen on a new line.
+
+- [SmallestLargest](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%208/SmallestLargest.java): A java program where the largest number in an array gets swapped with the last element in an array, and the smallest element in an array gets swapped with the first element in the array.
+
+- [SumProduct](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%208/SumProduct.java): A Java program that prints to the screen the sum and product of all the elements of the array as well as the largest number.
+
+- [EvenArrays](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%208/EvenArrays.java): A Java program that will create an array of size 10 and into it put the first 10 even numbers greater than a given user input. The user is then prompted to enter a number and the program prints out the array value at that position.
+
+- [AddElements](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%208/AddElements.java): A Java program that prompts the user to input ten decimal point numbers into an array, adds every number entered to the previous number entered and print the calculation to the screen rounded to 2 decimal places.
+
+- [Clumps](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%208/Clumps.java): A java program which will print to the screen the largest "clump" that appears in an array that was created by user input.
+
+# Lab 9
+
+
 
 
 
