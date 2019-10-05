@@ -44,7 +44,7 @@ Below is a list of all the labs and exercises in this repository along with a sh
 - [DoWhile](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%203/DoWhile.java): A Java program that uses a do-while loop to determine if a positive integer number is a prime number.
 
 # Lab 4
-## (Cancelled)
+### (Cancelled)
 
 # Lab 5
 
