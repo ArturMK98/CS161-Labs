@@ -46,7 +46,6 @@ Below is a list of all the labs and exercises in this repository along with a sh
 ### (Cancelled)
 
 # Lab 5
-
 - [Revision](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%205/Revision.java): A Java program that determines the sum of the units, tens, hundreds and thousands in every four-digit number.
 
 - [Strings1](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%205/Strings1.java): A Java program that prints to the screen a concatenated String.
@@ -55,11 +54,14 @@ Below is a list of all the labs and exercises in this repository along with a sh
 
 - [Backwards](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%205/Backwards.java): A Java program that takes a String that references a lowercase String and prints the String in reverse word by word.
 
-- [Palindrome](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%205/Palindrome.java): a Java program that will determine if a String is a palindrome.
+- [Palindrome](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%205/Palindrome.java): A Java program that will determine if a String is a palindrome.
 
 # Lab 6
+- [input1](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%206/input1.java): A Java program that compares two Strings decided by user input.
 
+- [input2](https://github.com/ArturMK98/CS161-Labs/blob/master/Lab%206/input2.java): A program that takes two integer inputs from the user and tells if the first number is greater than, equal to or less than the second number.
 
+# Lab 7
 
 
 
